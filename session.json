@@ -1,0 +1,8 @@
+{
+  "v": 1,
+  "alg": "A256GCM",
+  "aad": "schoology-session-v1",
+  "exportedAt": "2026-11-21T09:45:13.521Z",
+  "iv": "Exa+XfENABJaZCZ3",
+  "ct": "kQtZ0W/6xWE6antZfoJhQARInQI6OW90t0KPH01Hqk34Ih7OEc8a2ftJpsx3QLQ6sO5d9FnSjplYgNElkfdfu87oqGAJgUFxSuOH3iZoU23cI9LTzwwPQYWehdviqdrj4s3NgkKrXc/jlGbkH2mPHFilW759GnmuXGvlY9LDrBwGg0FDcpjUfoa53N1tTfdrzV6slCBRcdyHi2eoVEA+5sIozEU90h3gI3KWat+fgTGgp5PHxF4Nt4rgLRcHAeEaDs/OWXFW7wRgNh7MfGgpJ9NBlDJH8fIk4AUfXc/kEGd7qIwYA5hZr3CGwlERtsYyP3uZlKmd8DT3zk4/L7rbgGSrgEvQ0WjbwnUE8mVhcv+5o4jvG3lcb+zykmaL6DtiOa03zw=="
+}
